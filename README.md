@@ -1,2 +1,2 @@
 # ATM-Prototype
-Python based ATM prototype
+JavaScript based ATM prototype
